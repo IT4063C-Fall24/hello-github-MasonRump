@@ -24,20 +24,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . I learned how to use github dekstop's UI; I learned how to use VSCode with Github Dekstop
 
 **I struggled with:** (repeat as needed)
-- .
+- . I struggled with remebering to hit save in VSCode beforme trying to commit 
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . I do not need any help from the instructor at this time
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
-
+- . For the assignment I feel I should get a 20 out of 20, as I fully completed the assignment
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- . I used this modules videos 
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . I recieved no external help during this assignment
